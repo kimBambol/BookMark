@@ -5,3 +5,7 @@
 ### jQuery
 
 [datatables 행 리사이즈](https://github.com/dhobi/datatables.colResize)
+
+### Etc
+
+[모바일에서 개발자보드 확인하기](https://sir.kr/g5_tip/10743)
