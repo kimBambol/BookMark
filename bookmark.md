@@ -6,6 +6,10 @@
 
 [datatables 행 리사이즈](https://github.com/dhobi/datatables.colResize)
 
+### CSS
+
+[CSS로 원하는 모양으로 이미지 자르기](https://sueaty.tistory.com/6)
+
 ### Etc
 
 [모바일에서 개발자보드 확인하기](https://sir.kr/g5_tip/10743)
