@@ -1,4 +1,8 @@
-### 스프링
+### JAVA
+
+[객체지향 프로그래밍](https://gitlab.com/easyspubjava/javacoursework)
+
+### Spring
 
 [Parameter Mapping 방법](https://bamdule.tistory.com/131)
 
