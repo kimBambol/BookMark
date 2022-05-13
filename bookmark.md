@@ -6,6 +6,10 @@
 
 [Parameter Mapping 방법](https://bamdule.tistory.com/131)
 
+### PHP
+
+[그누보드5 / 영카트5 함수 정리](https://sir.kr/g5_tip/7897)
+
 ### jQuery
 
 [datatables 행 리사이즈](https://github.com/dhobi/datatables.colResize)
