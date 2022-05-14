@@ -14,6 +14,8 @@
 
 [datatables 행 리사이즈](https://github.com/dhobi/datatables.colResize)
 
+[Jquery get input array field](https://stackoverflow.com/questions/19529443/jquery-get-input-array-field)
+
 ### CSS
 
 [CSS로 원하는 모양으로 이미지 자르기](https://sueaty.tistory.com/6)
