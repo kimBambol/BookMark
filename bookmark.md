@@ -10,6 +10,8 @@
 
 [그누보드5 / 영카트5 함수 정리](https://sir.kr/g5_tip/7897)
 
+[PHPExcel 로 엑셀파일 다운받기 샘플](https://m.blog.naver.com/dme1004/221824675346)
+
 ### jQuery
 
 [datatables 행 리사이즈](https://github.com/dhobi/datatables.colResize)
