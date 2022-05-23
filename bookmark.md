@@ -26,6 +26,10 @@
 
 ### Etc
 
+[아이폰 text-overflow:ellipsis 적용 1](https://1004lucifer.blogspot.com/2014/09/htmlios-ios-ellipsis.html)
+
+[아이폰 text-overflow:ellipsis 적용 2](https://stackoverflow.com/questions/17779293/css-text-overflow-ellipsis-not-working)
+
 [모바일에서 개발자보드 확인하기](https://sir.kr/g5_tip/10743)
 
 [택배배송조회](https://jomuljomul.tistory.com/entry/%ED%8E%8C-%ED%83%9D%EB%B0%B0-%EB%B0%B0%EC%86%A1%EC%A1%B0%ED%9A%8C-API)
