@@ -35,3 +35,5 @@
 [택배배송조회](https://jomuljomul.tistory.com/entry/%ED%8E%8C-%ED%83%9D%EB%B0%B0-%EB%B0%B0%EC%86%A1%EC%A1%B0%ED%9A%8C-API)
 
 [SSH란](https://baked-corn.tistory.com/52)
+
+[유튜브 API](https://developers.google.com/youtube/v3/getting-started?hl=ko)
