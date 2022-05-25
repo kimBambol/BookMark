@@ -2,6 +2,10 @@
 
 [객체지향 프로그래밍](https://gitlab.com/easyspubjava/javacoursework)
 
+### JavaScript
+
+[팝업창 닫힐때 특정 동작 수행](https://mebadong.tistory.com/39)
+
 ### Spring
 
 [Parameter Mapping 방법](https://bamdule.tistory.com/131)
