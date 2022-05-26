@@ -22,6 +22,8 @@
 
 [datatables 행 리사이즈](https://github.com/dhobi/datatables.colResize)
 
+[jquery - select option 선택값 가져오기](https://oingbong.tistory.com/175)
+
 [Jquery get input array field](https://stackoverflow.com/questions/19529443/jquery-get-input-array-field)
 
 ### CSS
