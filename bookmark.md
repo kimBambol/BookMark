@@ -43,3 +43,5 @@
 [SSH란](https://baked-corn.tistory.com/52)
 
 [유튜브 API](https://developers.google.com/youtube/v3/getting-started?hl=ko)
+
+[자주사용하는 정규표현식](https://hitomis.tistory.com/68)
