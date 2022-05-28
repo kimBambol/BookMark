@@ -45,3 +45,5 @@
 [유튜브 API](https://developers.google.com/youtube/v3/getting-started?hl=ko)
 
 [자주사용하는 정규표현식](https://hitomis.tistory.com/68)
+
+[유튜브 iframe 속도 조절](https://salferrarello.com/video-speed-iframe/)
